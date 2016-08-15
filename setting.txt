@@ -1,0 +1,221 @@
+﻿�������������������
+
+setting
+
+PID算法
+
+http://wenku.baidu.com/link?url=UqoYO0apODPqoXhwNrH7xUf6COf8fMKm8JdGpB_PJvHnrgDfb2TYfpQwiNKb2HwBsfVe-xF4SxiUV8hkrEXsi52EQss_qnhQhiAJbxHXz5q
+
+
+svn://svn.mojichina.com/mojiweather/code/Hardware
+svn://hdsvn.moweather.com/moweather/Hardware/
+
+2914.8
+
+E:\CC3100 TOOL\cc3100-sdk\platform\simplelinkstudio\example_project_vs
+
+
+服务	地址	用户名	密码
+http://wiki.moji001.com/doku.php
+Samba	\\192.168.1.196
+bo.wu	Bowu0307
+Svn	svn://svn.mojichina.com	bo.wu	8sh9&Zrh
+Jira	Jira.mojichina.com	bo.wu	Bowu0307
+无线网络连接	需要绑定mac地址，将mac地址发送给：
+xiangyong.song@mojichina.com 
+Ssid：Moji	密码：mojikey2013
+
+Vpn的地址是：vpn2.mojichina.com
+连接方式：pptp
+用户名：wubo
+密码：%9Tsyc4W
+
+
+BB 00 10 00 00 00 34 00 68 74 74 70 3A 2F 2F 6D 78 63 68 69 70 2E 63 6F 6D 2F 75 70 6C 6F 61 64 66 69 6C 65 73 2F 70 72 6F 64 75 63 74 5F 69 6D 67 2F 33 30 34 38 43 2E 6A 70 67 00 F9 62
+
+cem路由管理员密码：
+27353188
+
+MDK生成.bin文件
+E:\WORK\MDK\ARM\ARMCC\bin\fromelf.exe --bin  --output C:\Users\WuBo\Desktop\svn\AirNut\Output\wubo.bin  C:\Users\WuBo\Desktop\svn\AirNut\Output\AirNut.axf
+
+
+E:\WORK\MDK\ARM\ARMCC\bin\fromelf.exe --bin  --output ..\Output\wubo.bin  ..\Output\AirNut.axf
+
+F:\WORK\software\keil\keil5.15\ARM\ARMCC\bin\fromelf.exe --bin  --output C:\Users\bo.wu\Desktop\3088\mico_3088\obj\3088_1.bin  C:\Users\bo.wu\Desktop\3088\mico_3088\obj\3088.axf
+
+F:\WORK\software\keil\keil5.15\ARM\ARMCC\bin\fromelf.exe --bin  --output C:\Users\bo.wu\Desktop\3088\mico_3088\obj\2016022002.bin  C:\Users\bo.wu\Desktop\3088\mico_3088\obj\3088.axf
+
+F:\WORK\software\keil\keil5.15\ARM\ARMCC\bin\fromelf.exe --bin  --output C:\Users\bo.wu\Desktop\PeripheralNode\obj\Node.bin  C:\Users\bo.wu\Desktop\PeripheralNode\obj\3088.axf
+
+
+3383 + 494
+
+
+%x的意思是以十六进制显示
+%数字x  的意思是以十六进制并且用数字那么多的长度显示，不够长度补空格，大于或等于就按照本身的长度显示
+%0数字x跟%数字x的意思差不多，区别在于不够长度补0
+
+ 10代表输出浮点数总共为10位。 
+如，
+a=100000.1235
+ printf( a=%10.3f ,a);
+结果为：a=100000.124   /*最后一位四舍五入*/
+
+函数功能：把格式化的数据写入某个字符串
+函数原型：int sprintf( char *buffer, const char *format [, argument] … );
+返回值：字符串长度（strlen）
+
+例子：
+char* who = "I";
+char* whom = "CSDN";
+sprintf(s, "%s love %s.", who, whom); //产生："I love CSDN. "  这字符串写到s中
+
+sprintf(s, "%10.3f", 3.1415626); //产生：" 3.142"
+
+C++函数原型：
+const char * strstr ( const char * str1, const char * str2 );
+char * strstr ( char * str1, const char * str2 );
+C函数原型：
+char * strstr ( const char *, const char * );
+
+a字符串里 查看是否有b字符串，
+有则 从首次发现b字符串处 返回 a字符串。 
+没有则输出 null
+
+例子:
+char st[]="abc 1234 xyz";
+printf("%s",strstr(st,"34") );
+打印出：
+34 xyz
+
+visual studio中加入 #define _CRT_SECURE_NO_WARNINGS  就不会出现安全提示导致的无法编译
+
+
+apple:   jaychou7758521@qq.com       Wubo19910418
+
+心跳:
+#MJ-Send_Heartbeat---A[0112]{"p":"heartbeat","param":{"version":"2014102700","temp":"0","humidity":"0","co2":"0","im25":"0","charging":"1"}}00
+
+避免visual studio警告
+#define _CRT_SECURE_NO_WARNINGS  
+
+AirNut 1s :
+Mcu : stm32f407VE   flash : 512k  ram : 192k
+
+
+
+在ASCII吗中，字符‘0‘对应48，而’/0’对应0；  "/0"------>对应hex ( 2F 30 ) 
+
+
+
+usb刷固件C:\Program Files (x86)\STMicroelectronics\Software\DfuSe\Driver
+
+
+
+
+
+AirNut 1s
+Application Address : 0x08010000 系统起始地址  0x10000 = 65536 Byte  = 64KB
+系统堆栈大小 : 0x00004000 = 16384 Byte = 16 KB
+系统内存大小 : 0x00010000 = 65536 Byte = 64 KB
+主频 : 168 MHz
+
+200HZ
+1M / 200HZ = 5ms 的system tick
+所以OSTimeDlyHMSM(0 , 0 , 0 , 5 , OS_OPT_TIME_HMSM_NON_STRICT, &os_err);的ms延时要是5的倍数起
+
+tick 为5ms  那么设置 x ms 延时的话 实际上是  如果 （x % 5） > (5/2)   那么实际的 delay时间 就是 (x / 5 + 1 ) * 5 ms.  否则就是 (x / 5) * 5 ms 
+
+
+cortex M4中（stm32 f407）CCM内存池从0x1000 0000开始   （共 64K）
+
+		内部SRAM  (共128K)
+						      外部SRAM内存池从0x6000 0000 ~ 0x9fff ffff (Bank1~Bank4 , 每个Bank含有4*64MB)
+						      SRAM Bank1(0x6000 0000 ~ 0x6fff ffff) 四个区（区1:0x6000 0000 ~ 0x63ff ffff）
+												   (区2:0x6400 0000 ~ 0x67ff ffff)
+												   (区3:0x6800 0000 ~ 0x6bff ffff)
+												   (区4:0x6c00 0000 ~ 0x6fff ffff)
+
+	(0x6fff ffff - 0x6000 0000) = 0x0fff ffff = 268435455 （再加上0x6000 0000）就是268435455 + 1 = 268435456 个地址
+	4 * 64MB = 4 * 64 *1024 KB = 4 * 64 * 1024 *1024 B = 268435456 Byte
+	一个地址对应一个Byte
+
+
+
+淘宝 baby兔saw
+
+搭建IAR stm32环境http://www.eda-china.com/index.php?a=show&m=Article&id=1271
+原子cortex M4 stm32F407讲解 http://www.openedv.com/posts/list/43343.htm
+http://zhannei.baidu.com/cse/search?q=+%E3%80%90%E6%AD%A3%E7%82%B9%E5%8E%9F%E5%AD%90%E6%8E%A2%E7%B4%A2%E8%80%85STM32F407%E5%BC%80%E5%8F%91%E6%9D%BF%E4%BE%8B%E7%A8%8B%E8%BF%9E%E8%BD%BD%2B%E6%95%99%E5%AD%A6%E3%80%91&s=6988211266298100909
+
+mp3软解码：
+	http://www.openedv.com/posts/list/11035.htm
+mp3,PCM（脉冲编码调制）基本知识：
+	http://blog.csdn.net/ownwell/article/details/8114121
+PCM数据格式：code
+	http://my.oschina.net/u/589963/blog/167526
+
+cJSON的一些知识点：
+若干说明
+1.cJSON_Parse函数负责解析JSON数据包，并按照cJSON结构体的结构序列化整个数据包。使用该函数会通过malloc函数在内存中开辟一个空间，使用完成需要手动释放。
+2.cJSON_GetObjectItem函数可从cJSON结构体中查找某个子节点名称（键名称），如果查找成功可把该子节点序列化到cJSON结构体中。
+3.如果需要使用cJSON结构体中的内容，可通过cJSON结构体中的valueint和valuestring取出有价值的内容（即键的值）
+4.可通过cJSON_Delete释放内存空间。
+
+
+
+实时操作系统和前后台操作系统 ：
+http://group.ednchina.com/GROUP_MES_14262_2748_41106.HTM
+
+
+迅雷会员
+账号：lxywdh
+密码：237237hsgqs237
+
+
+stm32f4 usb驱动贴 http://bbs.21ic.com/icview-811704-1-1.html
+
+
+memmove 和 memcpy的区别 ：
+	http://blog.chinaunix.net/uid-26495963-id-3080058.html
+
+STM32中的常量数组的首地址如何指定FLASH的某一个地址？：
+http://zhidao.baidu.com/link?url=J1th9s4Rhj3C--xnuO7BuCPOahlU5QcL6KiBECzzjxqq6mYM48qbZ2szVKQ1cV3CWxoqTZ6PxL0ryTt3pBi38OMPCaDHJR2k3KklIhyPP_G
+
+解析IAR的ILINK链接器icf配置文件：
+	http://blog.chinaaet.com/detail/27024
+关于栈、堆、静态存储区最大可分配大小的探讨：
+http://blog.csdn.net/lwnylslwnyls/article/details/8554613
+
+
+剑指offer:
+	http://m.blog.csdn.net/blog/DERRANTCM/46887821
+
+
+stm32F407中：
+  unsigned long = 4字节 long long = 8字节 int = 4字节 short = 2字节 char = 1字节 
+
+ios开发:
+  http://www.iphonetrain.com/video_info/196.html
+
+stm32低功耗stop模式问题：
+	http://bbs.21ic.com/icview-548660-1-1.html
+
+
+百度网盘15201301844，bxs123456
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
