@@ -1,0 +1,1734 @@
+[160970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[162294][peripheral_log log: Peripheral.c: 585] g_battery = 3980 mv Ldoin = 3171 mv charge_status:1
+[162367][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[162454][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[162602][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[163470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[165970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[168470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[168991][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[168996][TCP client: RemoteTcpClient.c:  84] free_memory:27164 Bytes
+[169003][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[169022][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[169029][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[170009][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+u)
+
+[170377][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[170970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[172628][peripheral_log log: Peripheral.c: 585] g_battery = 3980 mv Ldoin = 3171 mv charge_status:1
+[172768][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[172916][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[173470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[175970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[178387][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[178470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[180970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[182929][peripheral_log log: Peripheral.c: 585] g_battery = 3976 mv Ldoin = 3173 mv charge_status:1
+[183069][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[183217][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[183470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[185970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[186397][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[188470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[190970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[193243][peripheral_log log: Peripheral.c: 585] g_battery = 3976 mv Ldoin = 3173 mv charge_status:1
+[193393][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[193470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[193542][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[194407][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[195970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[196991][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[196996][TCP client: RemoteTcpClient.c:  84] free_memory:27164 Bytes
+[197003][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[197022][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[197029][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[198009][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+u)
+
+[198470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[200970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[202417][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[203470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[203568][peripheral_log log: Peripheral.c: 585] g_battery = 3976 mv Ldoin = 3171 mv charge_status:1
+[203708][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[203856][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[205970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[208470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[210427][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[210970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[213470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[213872][peripheral_log log: Peripheral.c: 585] g_battery = 3976 mv Ldoin = 3171 mv charge_status:1
+[214012][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[214160][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[215970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[218437][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[218470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[220970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[223470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[224186][peripheral_log log: Peripheral.c: 585] g_battery = 3972 mv Ldoin = 3171 mv charge_status:1
+[224326][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[224484][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[224991][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[224996][TCP client: RemoteTcpClient.c:  84] free_memory:27164 Bytes
+[225003][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[225022][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[225029][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[225970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[226009][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+u)
+
+[226447][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[228470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[230970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[233470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[234457][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[234510][peripheral_log log: Peripheral.c: 585] g_battery = 3976 mv Ldoin = 3171 mv charge_status:1
+[234650][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[234798][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[235970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[238470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[240970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[242467][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[243470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[244814][peripheral_log log: Peripheral.c: 585] g_battery = 3988 mv Ldoin = 3167 mv charge_status:1
+[244954][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error! pK 
+[245102][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or! pK 
+[245970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[248470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[250480][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[250970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[252991][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[252996][TCP client: RemoteTcpClient.c:  84] free_memory:27164 Bytes
+[253003][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[253022][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[253029][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[253470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[254006][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+u)
+
+[255118][peripheral_log log: Peripheral.c: 585] g_battery = 3980 mv Ldoin = 3171 mv charge_status:1
+[255258][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[255406][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[255970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[258470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[258491][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[260970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[263470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[264942][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[264962][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[264975][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[264987][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265002][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265022][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265042][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265062][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265082][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265102][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265122][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265142][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265162][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265182][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265202][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265222][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265242][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265262][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265282][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265302][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265322][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265342][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265362][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265382][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265402][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265422][peripheral_log log: Peripheral.c: 585] g_battery = 3982 mv Ldoin = 3171 mv charge_status:1
+[265432][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265445][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265462][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265482][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265502][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265522][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265542][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265562][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265575][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[265593][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265606][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265622][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265642][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265662][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265682][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265702][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265722][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[265735][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[265753][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265765][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265782][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265802][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265822][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265842][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 118] **ASSERT** 
+[265862][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265882][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265902][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265915][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265928][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265942][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265955][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265968][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[265980][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[265986][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266002][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266022][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266043][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266055][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266068][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266082][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[266102][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266122][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266143][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266162][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266182][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266202][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266223][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[266242][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266255][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266268][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266283][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266303][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266322][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[266342][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[266355][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266368][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266383][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266403][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266423][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266443][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266463][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266483][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266501][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[266507][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[266524][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266543][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266563][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266583][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[266603][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[266623][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267563][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267583][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267603][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267623][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267643][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267663][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267683][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267703][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267723][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267743][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267763][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267783][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267795][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267808][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267823][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267843][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[267863][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[267883][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267903][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267923][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[267943][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267963][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[267975][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[267988][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268003][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268023][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[268043][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268063][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268075][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268088][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268103][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 118] **ASSERT** 
+[268123][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268143][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[268163][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268183][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268203][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268223][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268243][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268263][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268283][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[268303][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int): 112] **ASSERT** 
+[268323][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268336][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268348][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268363][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268383][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268403][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268415][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268428][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268443][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268463][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268476][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[268483][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268503][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268523][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268543][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268563][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268576][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268588][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268603][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268623][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[268643][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[270970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[273470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[273749][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273767][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273787][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273807][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273827][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273847][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273867][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273887][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273907][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273927][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273947][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273968][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[273987][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274007][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274028][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274047][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274067][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274087][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274107][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274127][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274147][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274167][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274187][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274207][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274227][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274247][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274267][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274287][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274307][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274327][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274347][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274368][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274388][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274407][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274427][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274447][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274467][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274487][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274506][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274519][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[274526][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274547][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274567][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274587][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274607][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274627][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274647][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274667][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274687][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274707][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274727][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274747][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274767][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274787][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274807][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274827][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274847][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274867][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274887][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274907][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274927][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274947][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274967][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[274987][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275007][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275027][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275047][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275067][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275087][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275107][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275127][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275147][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275167][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275187][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275207][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275227][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[275762][peripheral_log log: Peripheral.c: 585] g_battery = 3988 mv Ldoin = 3171 mv charge_status:1
+[275902][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[275970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[276051][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[278470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[280970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[280991][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[280996][TCP client: RemoteTcpClient.c:  84] free_memory:27164 Bytes
+[281003][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[281022][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[281029][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[282009][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+
+
+[282531][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[283470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[285970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[286077][peripheral_log log: Peripheral.c: 585] g_battery = 3984 mv Ldoin = 3173 mv charge_status:1
+[286217][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[286275][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286292][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286312][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286332][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286352][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286370][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[286378][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286391][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286411][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286431][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286451][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286470][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286490][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286510][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286530][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286550][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286570][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286590][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286611][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286631][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286650][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286670][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286690][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286710][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286730][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286750][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286770][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286790][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286810][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286830][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286850][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286870][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286890][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286910][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286930][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286950][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286970][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[286990][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287010][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287030][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287050][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287070][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287090][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287110][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287130][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287150][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287170][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287190][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287210][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287230][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287250][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287270][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287290][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287310][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287330][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287350][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287370][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287390][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287410][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287430][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287450][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287470][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287490][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287510][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287530][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287550][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287570][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287590][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287610][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287630][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287650][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287670][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287690][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287710][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287730][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287750][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287770][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287790][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287810][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287830][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287851][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287871][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287890][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287910][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287930][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287950][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287970][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[287991][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288011][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288031][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288051][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288071][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288091][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288111][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288131][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288151][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288171][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288191][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288211][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288231][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288251][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288271][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288291][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288311][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288331][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288351][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288371][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288391][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288411][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288431][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288451][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[288475][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288491][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288511][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288531][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288551][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288572][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288591][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288611][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288631][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288651][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288671][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288691][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288711][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288731][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288751][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288771][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288791][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288811][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288831][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288851][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288871][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288891][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288911][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288931][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288951][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288971][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[288991][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289011][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289031][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289051][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289071][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289091][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289111][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289131][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289152][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289172][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289192][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289212][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289232][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289252][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289272][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289292][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289312][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289332][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289352][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289372][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289392][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289412][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289432][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289452][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289472][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289492][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289512][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289532][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289552][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289572][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289593][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289614][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289672][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289693][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289714][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289735][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[289756][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[290541][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[290970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[291094][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291113][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291133][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291153][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291173][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291193][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291674][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291693][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291712][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291732][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291755][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291813][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291834][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291855][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[291876][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292193][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292213][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292232][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292252][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292272][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292293][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292313][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292333][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292353][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292372][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292392][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292412][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292435][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292456][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292475][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292496][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[292516][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293115][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293134][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293153][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293171][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293191][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293211][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293231][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293251][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293271][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293291][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293311][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293331][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293351][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293371][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293391][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[293470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[294377][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294394][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294414][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294434][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294454][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294474][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294494][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294514][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294535][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294555][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294575][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294595][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[294614][MICO:..\..\..\..\Demos\COM.MXCHIP.SPP\UartRecv.c:unsigned int _uart_get_one_packet(unsigned char *, int):  91] **ASSERT** 
+[295970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[296387][peripheral_log log: Peripheral.c: 585] g_battery = 3988 mv Ldoin = 3173 mv charge_status:1
+[296527][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[296675][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[298470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[298551][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[300970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[303470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[305970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[306561][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[306701][peripheral_log log: Peripheral.c: 585] g_battery = 3984 mv Ldoin = 3173 mv charge_status:1
+[306841][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[306989][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!ac:c89346aa69e0],[VS:2016061466],[PM2.5:00000 ug/m^3],[CH2O:0.0000 mg/m^3],[CO2:000000 ppm],[T:25.06 °Ê],?
+[308470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[308991][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[308996][TCP client: RemoteTcpClient.c:  84] free_memory:27164 Bytes
+[309003][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[309022][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[309029][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[310009][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+u)
+
+[310970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[313470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[314571][peripheral_log log: Peripheral.c: 198] Get Co2 Data!
+
+[314811][SPP: SppProtocol.c: 103] PM2.5 is 80 ppm
+[314815][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[314820][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[314825][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[314830][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[314835][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[315100][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[315764][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[315970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[316427][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[317015][peripheral_log log: Peripheral.c: 585] g_battery = 3974 mv Ldoin = 3168 mv charge_status:1
+[317091][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[317156][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[317304][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[317581][peripheral_log log: Peripheral.c: 184] Delete Detection_Of_CO2_thread!
+
+[317755][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[318419][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[318470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[319083][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[319747][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[320411][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[320970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[321075][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[321739][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[322403][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[323067][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[323470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[323730][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[324394][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[325058][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[325722][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[325970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[326386][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[327050][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[327317][peripheral_log log: Peripheral.c: 585] g_battery = 3968 mv Ldoin = 3171 mv charge_status:1
+[327457][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••Ë?
+[327612][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••Ë?
+[327714][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[328378][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[328470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[329041][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[329705][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[330369][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[330970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[331033][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[331697][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[332361][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[333025][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[333470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[333689][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[334352][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[335016][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[335680][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[335970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[336344][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[336991][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[336996][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[337003][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[337022][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[337029][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[337035][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[337635][peripheral_log log: Peripheral.c: 585] g_battery = 3980 mv Ldoin = 3173 mv charge_status:1
+[337671][SPP: SppProtocol.c: 103] PM2.5 is 71 ppm
+[337797][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!™i?
+[337945][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!™i?
+[338009][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+61466], 
+
+[338335][SPP: SppProtocol.c: 103] PM2.5 is 72 ppm
+[338470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[338999][SPP: SppProtocol.c: 103] PM2.5 is 71 ppm
+[339663][SPP: SppProtocol.c: 103] PM2.5 is 73 ppm
+[340326][SPP: SppProtocol.c: 103] PM2.5 is 73 ppm
+[340970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[340990][SPP: SppProtocol.c: 103] PM2.5 is 72 ppm
+[341654][SPP: SppProtocol.c: 103] PM2.5 is 71 ppm
+[342318][SPP: SppProtocol.c: 103] PM2.5 is 71 ppm
+[342995][SPP: SppProtocol.c: 103] PM2.5 is 70 ppm
+[343470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[343645][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[344309][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[344973][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[345637][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[345970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[346300][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[346964][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[347628][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[347961][peripheral_log log: Peripheral.c: 585] g_battery = 3986 mv Ldoin = 3171 mv charge_status:1
+[348101][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[348249][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[348292][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[348470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[348956][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[349619][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[350283][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[350947][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[350970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[351611][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[352274][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[352938][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[353470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[353602][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[354266][SPP: SppProtocol.c: 103] PM2.5 is 70 ppm
+[354929][SPP: SppProtocol.c: 103] PM2.5 is 71 ppm
+[355593][SPP: SppProtocol.c: 103] PM2.5 is 72 ppm
+[355970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[356257][SPP: SppProtocol.c: 103] PM2.5 is 73 ppm
+[356921][SPP: SppProtocol.c: 103] PM2.5 is 72 ppm
+[357585][SPP: SppProtocol.c: 103] PM2.5 is 71 ppm
+[358248][SPP: SppProtocol.c: 103] PM2.5 is 71 ppm
+[358265][peripheral_log log: Peripheral.c: 585] g_battery = 3978 mv Ldoin = 3171 mv charge_status:1
+[358405][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[358470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[358554][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[358912][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[359576][SPP: SppProtocol.c: 103] PM2.5 is 70 ppm
+[360240][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[360904][SPP: SppProtocol.c: 103] PM2.5 is 70 ppm
+[360970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[361567][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[362231][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[362895][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[363470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[363559][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[364223][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[364887][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[364991][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[364996][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[365003][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[365022][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[365029][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[365550][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[365970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[366009][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+u)
+
+[366214][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[366878][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[367542][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[368206][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[368470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[368570][peripheral_log log: Peripheral.c: 585] g_battery = 3994 mv Ldoin = 3173 mv charge_status:1
+[368710][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[368858][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[368870][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[369533][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[370197][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[370861][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[370970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[371525][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[372188][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[372852][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[373470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[373516][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[374180][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[374844][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[375508][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[375970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[376171][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[376835][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[377499][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[378037][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[378139][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[378470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[378803][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[378875][peripheral_log log: Peripheral.c: 585] g_battery = 3986 mv Ldoin = 3171 mv charge_status:1
+[379015][peripheral_log log: Peripheral.c:1567] SHT2x Temperature is Error!
+[379163][peripheral_log log: Peripheral.c:1643] SHT2x Humidity is Error!or!
+[379467][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[380131][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[380795][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[380970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[381458][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[382122][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[382786][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[383450][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[383470][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[384113][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[384792][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[385441][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[385970][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[386105][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[386768][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[387432][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[388096][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+**ASSERT** USB device is not inserted
+[0][MICO: MICOEntrance.c: 744] SysGetWakeUpFlag.........VS:[2016061466]
+[9][MiCO Settting: MICOParaStorage.c: 201] crc_result = 58461
+[15][MiCO Settting: MICOParaStorage.c: 205] crc_target = 58461
+[23][MiCO Settting: MICOParaStorage.c: 214] crc_backup_result = 58461
+[30][MiCO Settting: MICOParaStorage.c: 218] crc_backup_target = 58461
+[36][MiCO Settting: MICOParaStorage.c: 270]  Config read, seed = 12!
+[43][MICO: MICOEntrance.c: 803] MiCO starting...
+[48][Platform: mico_platform_common.c: 111] Platform initialised, build by RVMDK
+[971][MICO: MICOEntrance.c: 805] MicoInit Over...
+[975][MICO: MICOEntrance.c: 810] Free memory 52548 bytes
+[981][MICO: MICOEntrance.c: 817] mxchipWNet SPP Demo based on MICO OS mxchipWNet library version: 10880002.036
+[992][MICO: MICOEntrance.c: 818] Wi-Fi driver version w8801-B0, RF87XX, FP76, 14.76.36.p70, mac C8:93:46:AA:69:E0
+[1003][MICO: MICOEntrance.c: 843] Current Time: Thu Aug  2 11:16:24 2046
+ D:2 WD:4 M:8 Y:2046
+[1012][MICO: MICOEntrance.c: 926] Available configuration. Starting Wi-Fi connection...
+[1021][MICO: MICOEntrance.c: 545] connect to ssid[Xiaomi] key[20140511].....
+[1028][peripheral_log log: Peripheral.c: 783] Key_thread is Start!
+[1035][peripheral_log log: Peripheral.c: 514] Adc_thread is Start!
+[1042][peripheral_log log: Peripheral.c: 229] Breath_Led_thread is Start!
+[1049][peripheral_log log: Peripheral.c:  57] Detection_Of_CO2_thread is Start!
+[1057][CONFIG SERVER: MICOConfigServer.c:  99] Config Server established at port: 8000, fd: 1
+[1069][TCP SERVER: LocalTcpServer.c:  62] Server established at port: 8080, fd: 2
+[1077][MICO: MICOEntrance.c: 970] Free memory 31972 bytes
+[1083][peripheral_log log: Peripheral.c:1705] Config SHT20  8bit Humidity 12bit Temperature mode
+[1093][MICO: MICOEntrance.c: 669] Open local UDP port 33332
+[1102][peripheral_log log: Peripheral.c: 540] g_battery = 2647 mv Ldoin = 3171 mv
+[1112][peripheral_log log: Peripheral.c: 540] g_battery = 2268 mv Ldoin = 3171 mv
+[1122][peripheral_log log: Peripheral.c: 540] g_battery = 2121 mv Ldoin = 3171 mv
+[1132][peripheral_log log: Peripheral.c: 540] g_battery = 2057 mv Ldoin = 3171 mv
+[1142][peripheral_log log: Peripheral.c: 540] g_battery = 2021 mv Ldoin = 3171 mv
+[1152][peripheral_log log: Peripheral.c: 540] g_battery = 2003 mv Ldoin = 3171 mv
+[1162][peripheral_log log: Peripheral.c: 540] g_battery = 1979 mv Ldoin = 3171 mv
+[1172][peripheral_log log: Peripheral.c: 540] g_battery = 1984 mv Ldoin = 3171 mv
+[1182][peripheral_log log: Peripheral.c: 540] g_battery = 1997 mv Ldoin = 3171 mv
+[1192][peripheral_log log: Peripheral.c: 540] g_battery = 1991 mv Ldoin = 3171 mv
+[1202][peripheral_log log: Peripheral.c: 540] g_battery = 1984 mv Ldoin = 3171 mv
+[1212][peripheral_log log: Peripheral.c: 540] g_battery = 1990 mv Ldoin = 3171 mv
+[1222][peripheral_log log: Peripheral.c: 540] g_battery = 1973 mv Ldoin = 3171 mv
+[1232][peripheral_log log: Peripheral.c: 540] g_battery = 1984 mv Ldoin = 3171 mv
+[1242][peripheral_log log: Peripheral.c: 540] g_battery = 1980 mv Ldoin = 3171 mv
+[1711][MICO: MICOEntrance.c: 175] Station up[wifi Status Change]ConnectAP_OK
+[2068][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[2119][TCP client: RemoteTcpClient.c: 210] Start connect at time: 2119
+[2139][TCP client: RemoteTcpClient.c: 216] Remote server connected at port: 8080, fd: 5
+[2147][TCP client: Protocol.c: 585] WiFi_Login 1: 27260, 1
+
+[2154][TCP client: Protocol.c: 607] [Login PROTOCOL]:{"p":"log_in","param":{"imei":"","ssid":"Xiaomi","password":"20140511","mcu_version":"","wifi_version":"2016061466","w-mac":"c89346aa69e0","z-mac":"1"}}
+
+
+
+[2174][TCP client: Protocol.c: 615] WiFi_Login 1: 27036, 1
+
+[3083][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[3488][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"type": "client", "socket_id": 17063, "result": 0, "p": "log_in"}
+ùp
+
+Login Protocol MCU No ACK![3504][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[4098][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[4504][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"warn_type": "", "weather_d": "1", "n_t": "27", "time": 1470918460, "weather_n": "33", "warn_level": "", "weather": "0", "result": 0, "d_w_l": "3", "type": "client", "d_w_d": "N", "city": "2", "car_limit": "49", "zone": "+8", "url": "www.mojichina.com", "is_day": "1", "d_t": "35", "p": "get_weather", "n_w_d": "N", "lunar": "15", "h": "40", "n_w_l": "3"}
+
+
+[4546][TCP client: Protocol.c: 983] #MJ-Get_Weather------S[0313]{"warn_type":"","weather_d":"1","n_t":"27","time":1470918460,"weather_n":"33","warn_level":"","weather":"0","result":0,"d_w_l":"3","type":"client","d_w_d":"N","city":"2","car_limit":"49","zone":"+8","url":"www.mojichina.com","is_day":"1","d_t":"35","p":"get_weather","n_w_d":"N","lunar":"15","h":"40","n_w_l":"3"}
+Get_Weather MCU No ACK![5113][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[5675][SPP: SppProtocol.c: 103] PM2.5 is 75 ppm
+[6003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[6124][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[6334][SPP: SppProtocol.c: 103] PM2.5 is 75 ppm
+[6996][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[7135][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[7659][SPP: SppProtocol.c: 103] PM2.5 is 72 ppm
+[8146][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[8322][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[8503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[8986][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[9157][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[9163][peripheral_log log: Peripheral.c: 135] Œ¥Ω”»ÎCO2¥´∏–∆˜
+
+[9649][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[10174][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[10313][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[10977][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[11003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[11185][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[11254][peripheral_log log: Peripheral.c: 585] g_battery = 3976 mv Ldoin = 3169 mv charge_status:1
+[11294][peripheral_log log: Peripheral.c:1568] Temperature is 23.78
+[11311][peripheral_log log: Peripheral.c:1644] Humidity is 64.03
+[11641][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[12196][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[12305][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[12969][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[13207][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[13213][peripheral_log log: Peripheral.c: 171] Œ¥Ω”»ÎCH2O¥´∏–∆˜
+
+[13220][peripheral_log log: Peripheral.c: 184] Delete Detection_Of_CO2_thread!
+
+[13503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[13633][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[14297][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[14961][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[15625][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[16003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[16289][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[16953][SPP: SppProtocol.c: 103] PM2.5 is 58 ppm
+[17617][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[18281][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[18503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[18945][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[19609][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[20273][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[20937][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[21003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[21326][peripheral_log log: Peripheral.c: 585] g_battery = 3978 mv Ldoin = 3171 mv charge_status:1
+[21366][peripheral_log log: Peripheral.c:1568] Temperature is 23.78
+[21383][peripheral_log log: Peripheral.c:1644] Humidity is 64.52
+[21600][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[22264][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[22928][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[23503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[23592][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[24256][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[24920][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[25584][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[26003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[26248][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[26912][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[27576][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[28239][SPP: SppProtocol.c: 103] PM2.5 is 58 ppm
+[28503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[28903][SPP: SppProtocol.c: 103] PM2.5 is 57 ppm
+[29024][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[29029][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[29036][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[29054][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[29062][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[29567][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[30042][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+?
+
+[30231][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[30895][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[31003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[31021][MICO: MICOEntrance.c: 320] Wifi Connected to Xiaomi is successful!
+[31397][peripheral_log log: Peripheral.c: 585] g_battery = 3990 mv Ldoin = 3173 mv charge_status:1
+[31437][peripheral_log log: Peripheral.c:1568] Temperature is 23.87
+[31454][peripheral_log log: Peripheral.c:1644] Humidity is 64.52
+[31559][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[32223][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[32887][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[33503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[33550][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[34214][SPP: SppProtocol.c: 103] PM2.5 is 56 ppm
+[34878][SPP: SppProtocol.c: 103] PM2.5 is 57 ppm
+[35542][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[36003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[36206][SPP: SppProtocol.c: 103] PM2.5 is 58 ppm
+[36870][SPP: SppProtocol.c: 103] PM2.5 is 56 ppm
+[37534][SPP: SppProtocol.c: 103] PM2.5 is 55 ppm
+[38197][SPP: SppProtocol.c: 103] PM2.5 is 55 ppm
+[38503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[38861][SPP: SppProtocol.c: 103] PM2.5 is 55 ppm
+[39525][SPP: SppProtocol.c: 103] PM2.5 is 54 ppm
+[40189][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[40853][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[41003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[41469][peripheral_log log: Peripheral.c: 585] g_battery = 3986 mv Ldoin = 3171 mv charge_status:1
+[41509][peripheral_log log: Peripheral.c:1568] Temperature is 23.78
+[41517][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[41526][peripheral_log log: Peripheral.c:1644] Humidity is 63.06
+[42180][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[42844][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[43503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[43508][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[44172][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[44835][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[45499][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[46003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[46163][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[46827][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[47491][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[48154][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[48503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[48818][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[49482][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[50146][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[50810][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[51003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[51473][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[51541][peripheral_log log: Peripheral.c: 585] g_battery = 3980 mv Ldoin = 3171 mv charge_status:1
+[51581][peripheral_log log: Peripheral.c:1568] Temperature is 23.87
+[51598][peripheral_log log: Peripheral.c:1644] Humidity is 64.52
+[52137][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[52801][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[53465][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[53503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[54129][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[54792][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[55456][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[56003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[56120][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[56784][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[57024][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[57029][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[57036][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[57055][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[57062][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[57448][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[58042][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+?
+
+[58112][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[58503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[58776][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[59440][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[60104][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[60768][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[61003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[61431][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[61610][peripheral_log log: Peripheral.c: 585] g_battery = 3980 mv Ldoin = 3173 mv charge_status:1
+[61650][peripheral_log log: Peripheral.c:1568] Temperature is 23.90
+[61667][peripheral_log log: Peripheral.c:1644] Humidity is 65.01
+[62095][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[62759][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[63423][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[63503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[64087][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[64751][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[65414][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[66003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[66078][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[66742][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[67406][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[68070][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[68503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[68734][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[69398][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[70061][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[70725][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[71003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[71389][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[71682][peripheral_log log: Peripheral.c: 585] g_battery = 3970 mv Ldoin = 3171 mv charge_status:1
+[71722][peripheral_log log: Peripheral.c:1568] Temperature is 23.98
+[71739][peripheral_log log: Peripheral.c:1644] Humidity is 66.43
+[72053][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[72717][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[73381][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[73503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[74044][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[74708][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[75372][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[76003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[76036][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[76700][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[77364][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[78028][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[78503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[78692][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[79356][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[80019][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[80683][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[81003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[81347][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[81754][peripheral_log log: Peripheral.c: 585] g_battery = 3972 mv Ldoin = 3169 mv charge_status:1
+[81794][peripheral_log log: Peripheral.c:1568] Temperature is 24.07
+[81811][peripheral_log log: Peripheral.c:1644] Humidity is 66.87
+[82011][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[82675][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[83339][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[83503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[84002][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[84666][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[85024][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[85029][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[85036][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[85055][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[85062][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[85330][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[85994][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[86003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[86042][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+?
+
+[86658][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[87322][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[87985][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[88503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[88649][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[89313][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[89977][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[90641][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[91003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[91304][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[91826][peripheral_log log: Peripheral.c: 585] g_battery = 3978 mv Ldoin = 3173 mv charge_status:1
+[91866][peripheral_log log: Peripheral.c:1568] Temperature is 24.16
+[91883][peripheral_log log: Peripheral.c:1644] Humidity is 67.79
+[91968][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[92632][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[93296][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[93503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[93960][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[94624][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[95287][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[95951][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[96003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[96615][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[97279][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[97943][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[98503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[98606][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[99270][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[99934][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[100598][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[101003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[101262][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[101898][peripheral_log log: Peripheral.c: 585] g_battery = 3970 mv Ldoin = 3171 mv charge_status:1
+[101926][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[101939][peripheral_log log: Peripheral.c:1568] Temperature is 24.28
+[101956][peripheral_log log: Peripheral.c:1644] Humidity is 68.26
+[102589][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[103253][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[103503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[103917][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[104581][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[105245][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[105908][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[106003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[106572][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[107236][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[107900][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[108503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[108564][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[109227][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[109891][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[110555][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[111003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[111219][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[111883][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[111971][peripheral_log log: Peripheral.c: 585] g_battery = 3974 mv Ldoin = 3169 mv charge_status:1
+[112011][peripheral_log log: Peripheral.c:1568] Temperature is 24.41
+[112028][peripheral_log log: Peripheral.c:1644] Humidity is 68.73
+[112547][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[113024][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[113029][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[113036][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[113054][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[113062][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[113210][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[113503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[113874][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[114042][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+?
+
+[114538][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[115202][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[115866][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[116003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[116529][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[117193][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[117857][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[118503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[118521][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[119185][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[119848][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[120512][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[121003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[121176][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[121840][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[122040][peripheral_log log: Peripheral.c: 585] g_battery = 3974 mv Ldoin = 3171 mv charge_status:1
+[122080][peripheral_log log: Peripheral.c:1568] Temperature is 24.46
+[122097][peripheral_log log: Peripheral.c:1644] Humidity is 69.17
+[122503][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[123167][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[123503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[123831][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[124495][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[125158][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[125822][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[126003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[126486][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[127150][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[127814][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[128477][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[128503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[129141][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[129805][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[130469][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[131003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[131132][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[131796][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[132112][peripheral_log log: Peripheral.c: 585] g_battery = 3976 mv Ldoin = 3171 mv charge_status:1
+[132152][peripheral_log log: Peripheral.c:1568] Temperature is 24.54
+[132169][peripheral_log log: Peripheral.c:1644] Humidity is 68.73
+[132460][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[133124][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[133503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[133787][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[134451][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[135115][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[135778][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[136003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[136442][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[137106][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[137770][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[138433][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[138503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[139097][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[139761][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[140425][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[141003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[141024][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[141029][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[141036][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[141055][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[141062][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[141088][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[141752][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[142042][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+?
+
+[142184][peripheral_log log: Peripheral.c: 585] g_battery = 3972 mv Ldoin = 3167 mv charge_status:1
+[142224][peripheral_log log: Peripheral.c:1568] Temperature is 24.63
+[142241][peripheral_log log: Peripheral.c:1644] Humidity is 68.73
+[142416][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[143080][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[143503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[143743][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[144407][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[145071][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[145735][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[146003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[146398][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[147062][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[147726][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[148390][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[148503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[149053][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[149717][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[150381][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[151003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[151045][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[151708][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[152256][peripheral_log log: Peripheral.c: 585] g_battery = 3980 mv Ldoin = 3173 mv charge_status:1
+[152296][peripheral_log log: Peripheral.c:1568] Temperature is 24.67
+[152313][peripheral_log log: Peripheral.c:1644] Humidity is 69.17
+[152372][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[153036][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[153503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[153700][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[154363][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[155027][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[155691][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[156003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[156355][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[157018][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[157682][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[158346][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[158503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[159010][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[159673][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[160338][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[161001][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[161006][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[161665][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[162328][peripheral_log log: Peripheral.c: 585] g_battery = 3992 mv Ldoin = 3169 mv charge_status:1
+[162338][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[162488][peripheral_log log: Peripheral.c:1568] SHT2x Temperature is Error!4.6ˇˇˇˇˇˇ»ìF™i?
+[162637][peripheral_log log: Peripheral.c:1644] SHT2x Humidity is Error!or!4.6ˇˇˇˇˇˇ»ìF™i?
+[162992][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[163503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[163656][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[164320][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[164983][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[165647][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[166003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[166311][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[166975][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[167639][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[168302][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[168503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[168966][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[169024][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[169029][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[169036][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[169055][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[169062][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[169630][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[170042][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+?
+
+[170294][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[170957][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[171003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[171621][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[172285][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[172654][peripheral_log log: Peripheral.c: 585] g_battery = 3966 mv Ldoin = 3173 mv charge_status:1
+[172794][peripheral_log log: Peripheral.c:1568] SHT2x Temperature is Error!
+[172942][peripheral_log log: Peripheral.c:1644] SHT2x Humidity is Error!or!
+[172950][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[173503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[173613][SPP: SppProtocol.c: 103] PM2.5 is 74 ppm
+[174276][SPP: SppProtocol.c: 103] PM2.5 is 75 ppm
+[174940][SPP: SppProtocol.c: 103] PM2.5 is 76 ppm
+[175604][SPP: SppProtocol.c: 103] PM2.5 is 77 ppm
+[176003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[176268][SPP: SppProtocol.c: 103] PM2.5 is 78 ppm
+[176932][SPP: SppProtocol.c: 103] PM2.5 is 78 ppm
+[177596][SPP: SppProtocol.c: 103] PM2.5 is 75 ppm
+[178259][SPP: SppProtocol.c: 103] PM2.5 is 76 ppm
+[178503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[178923][SPP: SppProtocol.c: 103] PM2.5 is 75 ppm
+[179587][SPP: SppProtocol.c: 103] PM2.5 is 78 ppm
+[180251][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[180915][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[181003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[181578][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[182242][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[182906][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[182958][peripheral_log log: Peripheral.c: 585] g_battery = 3976 mv Ldoin = 3169 mv charge_status:1
+[183098][peripheral_log log: Peripheral.c:1568] SHT2x Temperature is Error!
+[183246][peripheral_log log: Peripheral.c:1644] SHT2x Humidity is Error!or!
+[183503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[183570][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[184233][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[184897][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[185561][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[186003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[186225][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[186889][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[187552][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[188216][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[188503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[188880][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[189544][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[190208][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[190872][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[191003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[191535][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[192199][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[192863][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[193262][peripheral_log log: Peripheral.c: 585] g_battery = 3964 mv Ldoin = 3171 mv charge_status:1
+[193402][peripheral_log log: Peripheral.c:1568] SHT2x Temperature is Error!
+[193503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[193527][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[193552][peripheral_log log: Peripheral.c:1644] SHT2x Humidity is Error!or!
+[194190][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[194854][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[195518][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[196003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[196182][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[196845][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[197024][TCP client: RemoteTcpClient.c:  83] Heartbeat!
+[197029][TCP client: RemoteTcpClient.c:  84] free_memory:27796 Bytes
+[197036][TCP client: Protocol.c: 731] HeartBeat {"p":"heartbeat","param":{"device_name":"AirNut_Peripheral_Node","device_number":"3","wifi_version":"2016061466","w-mac":"c89346aa69e0"}}
+
+
+[197055][Platform: platform_rtc.c:  98] platform_rtc_get_time unimplemented
+[197062][TCP client: RemoteTcpClient.c:  99] 60 minute get weather
+[197509][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[198042][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"p": "heartbeat", "type": "client", "result": 1000}
+?
+
+[198173][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[198503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[198836][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[199500][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[200164][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[200828][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[201003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[201491][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[202155][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[202819][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[203483][SPP: SppProtocol.c: 103] PM2.5 is 58 ppm
+[203503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[203568][peripheral_log log: Peripheral.c: 585] g_battery = 3974 mv Ldoin = 3171 mv charge_status:1
+[203708][peripheral_log log: Peripheral.c:1568] SHT2x Temperature is Error!
+[203856][peripheral_log log: Peripheral.c:1644] SHT2x Humidity is Error!or!
+[204146][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[204810][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[205474][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[206003][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[206138][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[206801][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[207465][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[208129][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[208503][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[208792][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[209456][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+**ASSERT** USB device is not inserted
+[0][MICO: MICOEntrance.c: 744] SysGetWakeUpFlag.........VS:[2016061466]
+[9][MiCO Settting: MICOParaStorage.c: 201] crc_result = 58461
+[15][MiCO Settting: MICOParaStorage.c: 205] crc_target = 58461
+[23][MiCO Settting: MICOParaStorage.c: 214] crc_backup_result = 58461
+[30][MiCO Settting: MICOParaStorage.c: 218] crc_backup_target = 58461
+[37][MiCO Settting: MICOParaStorage.c: 270]  Config read, seed = 12!
+[43][MICO: MICOEntrance.c: 803] MiCO starting...
+[48][Platform: mico_platform_common.c: 111] Platform initialised, build by RVMDK
+[987][MICO: MICOEntrance.c: 805] MicoInit Over...
+[991][MICO: MICOEntrance.c: 810] Free memory 52548 bytes
+[997][MICO: MICOEntrance.c: 817] mxchipWNet SPP Demo based on MICO OS mxchipWNet library version: 10880002.036
+[1008][MICO: MICOEntrance.c: 818] Wi-Fi driver version w8801-B0, RF87XX, FP76, 14.76.36.p70, mac C8:93:46:AA:69:E0
+[1019][MICO: MICOEntrance.c: 843] Current Time: Thu Aug  2 11:15:57 2046
+ D:2 WD:4 M:8 Y:2046
+[1028][MICO: MICOEntrance.c: 926] Available configuration. Starting Wi-Fi connection...
+[1037][MICO: MICOEntrance.c: 545] connect to ssid[Xiaomi] key[20140511].....
+[1045][peripheral_log log: Peripheral.c: 783] Key_thread is Start!
+[1051][peripheral_log log: Peripheral.c: 514] Adc_thread is Start!
+[1058][peripheral_log log: Peripheral.c: 229] Breath_Led_thread is Start!
+[1066][peripheral_log log: Peripheral.c:  57] Detection_Of_CO2_thread is Start!
+[1073][CONFIG SERVER: MICOConfigServer.c:  99] Config Server established at port: 8000, fd: 1
+[1085][peripheral_log log: Peripheral.c:1705] Config SHT20  8bit Humidity 12bit Temperature mode
+[1096][MICO: MICOEntrance.c: 970] Free memory 32204 bytes
+[1103][TCP SERVER: LocalTcpServer.c:  62] Server established at port: 8080, fd: 2
+[1111][peripheral_log log: Peripheral.c: 540] g_battery = 2656 mv Ldoin = 3166 mv
+[1120][MICO: MICOEntrance.c: 669] Open local UDP port 33332
+[1127][peripheral_log log: Peripheral.c: 540] g_battery = 2276 mv Ldoin = 3166 mv
+[1137][peripheral_log log: Peripheral.c: 540] g_battery = 2121 mv Ldoin = 3166 mv
+[1147][peripheral_log log: Peripheral.c: 540] g_battery = 2051 mv Ldoin = 3166 mv
+[1157][peripheral_log log: Peripheral.c: 540] g_battery = 2027 mv Ldoin = 3166 mv
+[1167][peripheral_log log: Peripheral.c: 540] g_battery = 2005 mv Ldoin = 3166 mv
+[1177][peripheral_log log: Peripheral.c: 540] g_battery = 1990 mv Ldoin = 3166 mv
+[1188][peripheral_log log: Peripheral.c: 540] g_battery = 1981 mv Ldoin = 3166 mv
+[1198][peripheral_log log: Peripheral.c: 540] g_battery = 1990 mv Ldoin = 3166 mv
+[1208][peripheral_log log: Peripheral.c: 540] g_battery = 1999 mv Ldoin = 3166 mv
+[1218][peripheral_log log: Peripheral.c: 540] g_battery = 1990 mv Ldoin = 3166 mv
+[1228][peripheral_log log: Peripheral.c: 540] g_battery = 1995 mv Ldoin = 3166 mv
+[1238][peripheral_log log: Peripheral.c: 540] g_battery = 1999 mv Ldoin = 3166 mv
+[1248][peripheral_log log: Peripheral.c: 540] g_battery = 1996 mv Ldoin = 3166 mv
+[1258][peripheral_log log: Peripheral.c: 540] g_battery = 1988 mv Ldoin = 3166 mv
+[1923][MICO: MICOEntrance.c: 175] Station up[wifi Status Change]ConnectAP_OK
+[2084][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[2332][TCP client: RemoteTcpClient.c: 210] Start connect at time: 2332
+[2354][TCP client: RemoteTcpClient.c: 216] Remote server connected at port: 8080, fd: 5
+[2362][TCP client: Protocol.c: 585] WiFi_Login 1: 27260, 1
+
+[2369][TCP client: Protocol.c: 607] [Login PROTOCOL]:{"p":"log_in","param":{"imei":"","ssid":"Xiaomi","password":"20140511","mcu_version":"","wifi_version":"2016061466","w-mac":"c89346aa69e0","z-mac":"1"}}
+
+
+
+[2389][TCP client: Protocol.c: 615] WiFi_Login 1: 27036, 1
+
+[3099][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[3519][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[3703][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"type": "client", "socket_id": 17063, "result": 0, "p": "log_in"}
+ùp
+
+Login Protocol MCU No ACK![4114][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[4719][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"warn_type": "", "weather_d": "1", "n_t": "27", "time": 1470918672, "weather_n": "33", "warn_level": "", "weather": "0", "result": 0, "d_w_l": "3", "type": "client", "d_w_d": "N", "city": "2", "car_limit": "49", "zone": "+8", "url": "www.mojichina.com", "is_day": "1", "d_t": "35", "p": "get_weather", "n_w_d": "N", "lunar": "15", "h": "40", "n_w_l": "3"}
+
+
+[4761][TCP client: Protocol.c: 983] #MJ-Get_Weather------S[0313]{"warn_type":"","weather_d":"1","n_t":"27","time":1470918672,"weather_n":"33","warn_level":"","weather":"0","result":0,"d_w_l":"3","type":"client","d_w_d":"N","city":"2","car_limit":"49","zone":"+8","url":"www.mojichina.com","is_day":"1","d_t":"35","p":"get_weather","n_w_d":"N","lunar":"15","h":"40","n_w_l":"3"}
+Get_Weather MCU No ACK![5129][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[5688][SPP: SppProtocol.c: 103] PM2.5 is 102 ppm
+[6019][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[6140][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[6350][SPP: SppProtocol.c: 103] PM2.5 is 84 ppm
+[7012][SPP: SppProtocol.c: 103] PM2.5 is 72 ppm
+[7151][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[7675][SPP: SppProtocol.c: 103] PM2.5 is 69 ppm
+[8162][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[8338][SPP: SppProtocol.c: 103] PM2.5 is 67 ppm
+[8519][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[9002][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[9173][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[9179][peripheral_log log: Peripheral.c: 135] Œ¥Ω”»ÎCO2¥´∏–∆˜
+
+[9666][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[10190][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[10330][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[10994][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[11019][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[11201][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[11270][peripheral_log log: Peripheral.c: 585] g_battery = 3964 mv Ldoin = 3171 mv charge_status:1
+[11310][peripheral_log log: Peripheral.c:1568] Temperature is 28.99
+[11327][peripheral_log log: Peripheral.c:1644] Humidity is 57.63
+[11658][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[12212][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[12322][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[12986][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[13223][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[13229][peripheral_log log: Peripheral.c: 171] Œ¥Ω”»ÎCH2O¥´∏–∆˜
+
+[13236][peripheral_log log: Peripheral.c: 184] Delete Detection_Of_CO2_thread!
+
+[13519][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[13649][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[14313][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[14977][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[15641][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[16019][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[16305][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[16969][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[17633][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[18296][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[18519][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[18960][SPP: SppProtocol.c: 103] PM2.5 is 64 ppm
+[19624][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[20288][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[20952][SPP: SppProtocol.c: 103] PM2.5 is 66 ppm
+[21019][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[21342][peripheral_log log: Peripheral.c: 585] g_battery = 3984 mv Ldoin = 3171 mv charge_status:1
+[21382][peripheral_log log: Peripheral.c:1568] Temperature is 27.71
+[21399][peripheral_log log: Peripheral.c:1644] Humidity is 59.16
+[21616][SPP: SppProtocol.c: 103] PM2.5 is 68 ppm
+[22280][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[22944][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[23519][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[23607][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+**ASSERT** USB device is not inserted
+[0][MICO: MICOEntrance.c: 744] SysGetWakeUpFlag.........VS:[2016061466]
+[9][MiCO Settting: MICOParaStorage.c: 201] crc_result = 58461
+[15][MiCO Settting: MICOParaStorage.c: 205] crc_target = 58461
+[23][MiCO Settting: MICOParaStorage.c: 214] crc_backup_result = 58461
+[30][MiCO Settting: MICOParaStorage.c: 218] crc_backup_target = 58461
+[37][MiCO Settting: MICOParaStorage.c: 270]  Config read, seed = 12!
+[43][MICO: MICOEntrance.c: 803] MiCO starting...
+[48][Platform: mico_platform_common.c: 111] Platform initialised, build by RVMDK
+[1001][MICO: MICOEntrance.c: 805] MicoInit Over...
+[1005][MICO: MICOEntrance.c: 810] Free memory 52548 bytes
+[1011][MICO: MICOEntrance.c: 817] mxchipWNet SPP Demo based on MICO OS mxchipWNet library version: 10880002.036
+[1022][MICO: MICOEntrance.c: 818] Wi-Fi driver version w8801-B0, RF87XX, FP76, 14.76.36.p70, mac C8:93:46:AA:69:E0
+[1033][MICO: MICOEntrance.c: 843] Current Time: Thu Aug  2 11:16:22 2046
+ D:2 WD:4 M:8 Y:2046
+[1043][MICO: MICOEntrance.c: 926] Available configuration. Starting Wi-Fi connection...
+[1052][MICO: MICOEntrance.c: 545] connect to ssid[Xiaomi] key[20140511].....
+[1059][peripheral_log log: Peripheral.c: 783] Key_thread is Start!
+[1066][peripheral_log log: Peripheral.c: 514] Adc_thread is Start!
+[1073][peripheral_log log: Peripheral.c: 229] Breath_Led_thread is Start!
+[1080][peripheral_log log: Peripheral.c:  57] Detection_Of_CO2_thread is Start!
+[1088][CONFIG SERVER: MICOConfigServer.c:  99] Config Server established at port: 8000, fd: 1
+[1099][TCP SERVER: LocalTcpServer.c:  62] Server established at port: 8080, fd: 2
+[1108][MICO: MICOEntrance.c: 970] Free memory 31972 bytes
+[1114][peripheral_log log: Peripheral.c:1705] Config SHT20  8bit Humidity 12bit Temperature mode
+[1124][MICO: MICOEntrance.c: 669] Open local UDP port 33332
+[1132][peripheral_log log: Peripheral.c: 540] g_battery = 2653 mv Ldoin = 3166 mv
+[1142][peripheral_log log: Peripheral.c: 540] g_battery = 2269 mv Ldoin = 3166 mv
+[1152][peripheral_log log: Peripheral.c: 540] g_battery = 2126 mv Ldoin = 3166 mv
+[1162][peripheral_log log: Peripheral.c: 540] g_battery = 2051 mv Ldoin = 3166 mv
+[1172][peripheral_log log: Peripheral.c: 540] g_battery = 2022 mv Ldoin = 3166 mv
+[1182][peripheral_log log: Peripheral.c: 540] g_battery = 2005 mv Ldoin = 3166 mv
+[1192][peripheral_log log: Peripheral.c: 540] g_battery = 1981 mv Ldoin = 3166 mv
+[1203][peripheral_log log: Peripheral.c: 540] g_battery = 1997 mv Ldoin = 3166 mv
+[1213][peripheral_log log: Peripheral.c: 540] g_battery = 1985 mv Ldoin = 3166 mv
+[1223][peripheral_log log: Peripheral.c: 540] g_battery = 1988 mv Ldoin = 3166 mv
+[1233][peripheral_log log: Peripheral.c: 540] g_battery = 1996 mv Ldoin = 3166 mv
+[1243][peripheral_log log: Peripheral.c: 540] g_battery = 1988 mv Ldoin = 3166 mv
+[1253][peripheral_log log: Peripheral.c: 540] g_battery = 1995 mv Ldoin = 3166 mv
+[1263][peripheral_log log: Peripheral.c: 540] g_battery = 1990 mv Ldoin = 3166 mv
+[1274][peripheral_log log: Peripheral.c: 540] g_battery = 1969 mv Ldoin = 3166 mv
+[1747][MICO: MICOEntrance.c: 175] Station up[wifi Status Change]ConnectAP_OK
+[2097][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[2155][TCP client: RemoteTcpClient.c: 210] Start connect at time: 2155
+[2179][TCP client: RemoteTcpClient.c: 216] Remote server connected at port: 8080, fd: 5
+[2187][TCP client: Protocol.c: 585] WiFi_Login 1: 27260, 1
+
+[2194][TCP client: Protocol.c: 607] [Login PROTOCOL]:{"p":"log_in","param":{"imei":"","ssid":"Xiaomi","password":"20140511","mcu_version":"","wifi_version":"2016061466","w-mac":"c89346aa69e0","z-mac":"1"}}
+
+
+
+[2214][TCP client: Protocol.c: 615] WiFi_Login 1: 27036, 1
+
+[3112][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[3528][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"type": "client", "socket_id": 17063, "result": 0, "p": "log_in"}
+ùp
+
+[3542][MICO: Login Protocol MCU No ACK!MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[4127][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[4545][TCP client: Protocol.c: 338] [recvFromClient recevie]:{"warn_type": "", "weather_d": "1", "n_t": "27", "time": 1470918697, "weather_n": "33", "warn_level": "", "weather": "0", "result": 0, "d_w_l": "3", "type": "client", "d_w_d": "N", "city": "2", "car_limit": "49", "zone": "+8", "url": "www.mojichina.com", "is_day": "1", "d_t": "35", "p": "get_weather", "n_w_d": "N", "lunar": "15", "h": "40", "n_w_l": "3"}
+
+
+[4587][TCP client: Protocol.c: 983] #MJ-Get_Weather------S[0313]{"warn_type":"","weather_d":"1","n_t":"27","time":1470918697,"weather_n":"33","warn_level":"","weather":"0","result":0,"d_w_l":"3","type":"client","d_w_d":"N","city":"2","car_limit":"49","zone":"+8","url":"www.mojichina.com","is_day":"1","d_t":"35","p":"get_weather","n_w_d":"N","lunar":"15","h":"40","n_w_l":"3"}
+Get_Weather MCU No ACK![5142][peripheral_log log: Peripheral.c:  88] Sensor Air CO2 err == -1
+
+[5706][SPP: SppProtocol.c: 103] PM2.5 is 77 ppm
+[6033][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[6153][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[6365][SPP: SppProtocol.c: 103] PM2.5 is 70 ppm
+[7028][SPP: SppProtocol.c: 103] PM2.5 is 65 ppm
+[7164][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[7690][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[8175][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[8353][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[8533][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[9017][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[9186][peripheral_log log: Peripheral.c: 122] Àƒ∑Ωπ‚µÁ CO2 err == -1
+
+[9192][peripheral_log log: Peripheral.c: 135] Œ¥Ω”»ÎCO2¥´∏–∆˜
+
+[9681][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[10203][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[10345][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[11009][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[11033][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[11214][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[11286][peripheral_log log: Peripheral.c: 585] g_battery = 3992 mv Ldoin = 3171 mv charge_status:1
+[11326][peripheral_log log: Peripheral.c:1568] Temperature is 26.68
+[11343][peripheral_log log: Peripheral.c:1644] Humidity is 63.58
+[11674][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[12225][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[12338][SPP: SppProtocol.c: 103] PM2.5 is 58 ppm
+[13002][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[13236][peripheral_log log: Peripheral.c: 160] Àƒ∑Ωπ‚µÁ CH2O err == -1
+
+[13242][peripheral_log log: Peripheral.c: 171] Œ¥Ω”»ÎCH2O¥´∏–∆˜
+
+[13249][peripheral_log log: Peripheral.c: 184] Delete Detection_Of_CO2_thread!
+
+[13533][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[13666][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[14330][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[14994][SPP: SppProtocol.c: 103] PM2.5 is 62 ppm
+[15658][SPP: SppProtocol.c: 103] PM2.5 is 63 ppm
+[16033][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[16322][SPP: SppProtocol.c: 103] PM2.5 is 61 ppm
+[16986][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[17650][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[18314][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[18533][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[18978][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[19642][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[20306][SPP: SppProtocol.c: 103] PM2.5 is 60 ppm
+[20970][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
+[21033][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[21358][peripheral_log log: Peripheral.c: 585] g_battery = 3982 mv Ldoin = 3173 mv charge_status:1
+[21398][peripheral_log log: Peripheral.c:1568] Temperature is 26.26
+[21415][peripheral_log log: Peripheral.c:1644] Humidity is 65.55
+[21634][SPP: SppProtocol.c: 103] PM2.5 is 58 ppm
+[22298][SPP: SppProtocol.c: 103] PM2.5 is 56 ppm
+[22962][SPP: SppProtocol.c: 103] PM2.5 is 57 ppm
+[23533][MICO: MICOEntrance.c: 574] ~~~~~~~3088Œππ∑!!!!~~~~~~~
+[23626][SPP: SppProtocol.c: 103] PM2.5 is 58 ppm
+[24290][SPP: SppProtocol.c: 103] PM2.5 is 56 ppm
+[24954][SPP: SppProtocol.c: 103] PM2.5 is 59 ppm
